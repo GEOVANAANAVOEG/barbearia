@@ -1,4 +1,10 @@
-body {
+nav li {
+	display: inline;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+body 
 	background: #e612a5;
 	margin: 0;
 	padding: 0;
