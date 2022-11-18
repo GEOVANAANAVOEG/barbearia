@@ -20,6 +20,11 @@ nav a {
 	color:antiquewhite;
 }
 
+nav a:hover {
+	color: blueviolet;
+	text-decoration: underline;
+}
+
 body 
 	background: #e612a5;
 	margin: 0;
